@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my Github!
+
+My name is Yoon and I am interested in Big Data and Machine Learning. I am currently located in West Lafayette, IN. In my free time, I like to watch baseball games, read and travel.
+
+
+Check out my [portfolio]([https://your-portfolio-link.com](https://kyeungyoonkim.github.io)) for more projects and details about my work!
 
 <!--
 **kyeungyoonkim/kyeungyoonkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
