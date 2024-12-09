@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my Github!
 
-I'm Yoon Kim, a data enthusiast passionate about **Big Data**, **Machine Learning**, and **Accessibility Technology**. I am currently located in West Lafayette, IN. In my free time, I enjoy watching baseball games, reading, and exploring new places when I travel.
+I'm Yoon Kim, a data enthusiast passionate about **Big Data**, **Machine Learning**, and **Accessibility Technology**. I am currently located in West Lafayette, IN. In my free time, I enjoy watching MLB games, reading, and exploring new places when I travel.
 
 ## 🌟 About Me
 - 📊 Experienced in **data analysis**, **visualization**, and **statistical modeling**.  
