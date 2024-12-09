@@ -6,10 +6,6 @@ My name is Yoon and I am interested in Big Data and Machine Learning. I am curre
 Check out my [portfolio](https://kyeungyoonkim.github.io) for more projects and details about my work!
 
 
-# Test Hyperlink
-
-Click this: [Google](https://www.google.com)
-
 <!--
 **kyeungyoonkim/kyeungyoonkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
