@@ -7,7 +7,7 @@ I'm Yoon Kim, a data enthusiast passionate about **Big Data**, **Machine Learnin
 - 🔍 Research interests include **Human-Computer Interaction (HCI)** and **Artificial Intelligence (AI)**, with a focus on improving accessibility for individuals with disabilities.  
 
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills
 - **Languages**: Python, R, SQL, Java  
 - **Tools**: Tableau, Excel, SAS  
 - **Techniques**: Regression, Hypothesis Testing, AI Modeling  
@@ -16,7 +16,7 @@ I'm Yoon Kim, a data enthusiast passionate about **Big Data**, **Machine Learnin
 ## 📬 Let’s Connect!
 - 💌 Email: [kyoonkim01@gmail.com](mailto:kyoonkim01@gmail.com)  
 - 🌐 Portfolio: [portfolio](https://kyeungyoonkim.github.io)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kyoonkim)
+- 💬 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kyoonkim)
 
 <!--
 **kyeungyoonkim/kyeungyoonkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
