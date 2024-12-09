@@ -15,7 +15,7 @@ I'm Yoon Kim, a data enthusiast passionate about **Big Data**, **Machine Learnin
 
 ## 📬 Let’s Connect!
 - 💌 Email: [kyoonkim01@gmail.com](mailto:kyoonkim01@gmail.com)  
-- 🌐 Portfolio: [portfolio](https://kyeungyoonkim.github.io)
+- 🌐 Portfolio: [Portfolio](https://kyeungyoonkim.github.io)
 - 💬 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kyoonkim)
 
 <!--
