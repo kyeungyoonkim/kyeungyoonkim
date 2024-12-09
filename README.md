@@ -1,9 +1,9 @@
 ## Hi there 👋 Welcome to my Github!
 
-My name is Yoon and I am interested in Big Data and Machine Learning. I am currently located in West Lafayette, IN. In my free time, I like to watch baseball games, read and travel.
+My name is Yoon and I am interested in Big Data and Machine Learning. I am currently located in West Lafayette, IN. In my free time, I enjoy watching baseball games, reading, and exploring new places when I travel.
 
 
-Check out my [portfolio](https://kyeungyoonkim.github.io) for more projects and details about my work!
+Check out my [portfolio](https://kyeungyoonkim.github.io) for more details about my works, or feel free to reach out via [LinkedIn](www.linkedin.com/in/kyoonkim) or email at [kyoonkim01@gmail.com](kyoonkim01@gmail.com).
 
 
 <!--
