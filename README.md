@@ -1,10 +1,14 @@
 ## Hi there 👋 Welcome to my Github!
 
-I'm Yoon Kim, a data enthusiast passionate about **Big Data**, **Machine Learning**, and **Accessibility Technology**. I'm a proud **Purdue University alumna**, currently based in the **Greater Atlanta Area**. In my free time, I enjoy playing the piano, watching MLB games, and exploring new places through travel.
+I'm Yoon Kim, a data enthusiast passionate about **Artificial Intelligence**, **Machine Learning**, and **Accessibility Technology**. I'm a proud **Purdue University alumna** and currently apply my skills as a **Manufacturing Quality Engineer** in the **Greater Atlanta Area**.
+
+In my free time, I enjoy playing the piano, watching MLB games, and exploring new places through travel.
 
 ## 🌟 About Me
-- 📊 Experienced in **data analysis**, **visualization**, and **statistical modeling**.  
-- 🔍 Research interests include **Human-Computer Interaction** and **Artificial Intelligence**, and inclusive design-especially technologies that improve **accessibility** for individuals with disabilities.  
+- 📊 Experienced in **data analysis**, **visualization**, and **statistical modeling**.
+- 💡 Actively building expertise in **AI/ML for social good**, particularly in **accessible technologies** that enhance **human-computer interaction (HCI)** for individuals with disabilities.
+- 🚀 Passionate about leveraging data science to create inclusive and impactful solutions in the **healthcare sector**.
+
 
 ## 📬 Let’s Connect
 - 💌 Email: [kyoonkim01@gmail.com](mailto:kyoonkim01@gmail.com)  
