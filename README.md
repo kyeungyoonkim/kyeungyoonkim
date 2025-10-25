@@ -33,4 +33,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## 🌱 Currently Learning
+
+* **Certifications:** Preparing for **SOA Exam P (Probability)**
+* **Deep Learning:** `PyTorch` | `TensorFlow` | `Keras`
+* **NLP:** `Hugging Face Transformers` | `spaCy`
+* **MLOps:** `Docker` | `Flask` / `FastAPI`
+* **Big Data:** `Apache Spark (PySpark)`
 -->
