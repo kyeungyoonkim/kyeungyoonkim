@@ -1,4 +1,4 @@
-## Hi
+## Hi there 👋
 
 My name is Yoon, a data enthusiast passionate about **Artificial Intelligence**, **Machine Learning**, and **Accessibility Technology**. I'm a proud **Purdue University alumna**.
 
