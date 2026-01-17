@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Yoon, a data enthusiast passionate about **Artificial Intelligence**, **Machine Learning**, and **Accessibility Technology**. I'm a proud **Purdue University alumna**.
+My name is Yoon, a data enthusiast passionate about **Artificial Intelligence**, **Human-Computer Interaction**, and **Accessibility Technology**. I'm a proud **Purdue University alumna**.
 
-In my free time, I enjoy watching MLB games, taking pictures and exploring new places through travel. 
+In my free time, I enjoy playing piano, going to gym, and exploring new places through travel. 
 
 ## 🌟 About Me
 - 📊 Experienced in **data analysis**, **data visualization**, and **statistical modeling**.
@@ -10,7 +10,7 @@ In my free time, I enjoy watching MLB games, taking pictures and exploring new p
 - 🚀 Passionate about leveraging data science to create inclusive and impactful solutions in the **healthcare sector**.
 
 ## 🛠️ My Tech Stack
-- **Programming Languages & Packages:** `SQL (MySQL)` | `Python (Pandas, Numpy, Scipy, Statsmodel, Seaborn, Matplotlib, Scikit-learn)` | `R (ggplot2, dplyr)` | `Java` | `SAS` | `Minitab` | `CLI`
+- **Programming Languages & Packages:** `SQL (MySQL)` | `Python (Pandas, Numpy, Scipy, Statsmodel, Seaborn, Matplotlib, Scikit-learn)` | `SAS` | `R (ggplot2, dplyr)` | `Java` | `SAS` | `Minitab` | `CLI`
 - **Business Intelligence Tools:** `Tableau` | `Power BI` | `Excel (Macro, VBA, Pivot Tables)` | `Google Analytics`
 - **Statistical Techniques:** `Linear Regression` | `Significance Testing` | `Time Series Forecasting` | `A/B Testing`
 - **Web Development & Scraping:** `HTML` | `CSS` | `Python (BeautifulSoup)`
