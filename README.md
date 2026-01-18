@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Yoon, a data enthusiast passionate about **Artificial Intelligence**, **Human-Computer Interaction**, and **Accessibility Technology**. I'm a proud **Purdue University alumna**.
+My name is Yoon, a data enthusiast passionate about **Human-Computer Interaction**, **Artificial Intelligence**, and **Accessibility Technology**. I'm a proud **Purdue University alumna**.
 
 In my free time, I enjoy playing piano, going to gym, and exploring new places through travel. 
 
